@@ -1,0 +1,3 @@
+Artificial intelligence is becoming a vital asset in healthcare, especially in diagnostic imaging. This project presents a flexible solution that uses the YOLO (You Only Look Once) deep learning model to detect 
+abnormalities in various medical images, such as  X-rays, CT scans, MRIs, and ultrasounds within one unified framework. Unlike traditional approaches that require separate models, this system processes all image types using a single architecture. 
+Developed in Python,it utilizes NumPy for numerical operations, OpenCV for image processing, and Streamlit to create a real-time, interactive interface for easy use by medical professionals. 
